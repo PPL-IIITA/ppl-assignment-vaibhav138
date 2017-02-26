@@ -1,0 +1,14 @@
+\hypertarget{Allocate_8h}{}\section{Allocate.\+h File Reference}
+\label{Allocate_8h}\index{Allocate.\+h@{Allocate.\+h}}
+{\ttfamily \#include $<$bits/stdc++.\+h$>$}\\*
+{\ttfamily \#include \char`\"{}Boy.\+h\char`\"{}}\\*
+{\ttfamily \#include \char`\"{}Girl.\+h\char`\"{}}\\*
+Include dependency graph for Allocate.\+h\+:
+% FIG 0
+This graph shows which files directly or indirectly include this file\+:
+% FIG 1
+\subsection*{Classes}
+\begin{DoxyCompactItemize}
+\item 
+class \hyperlink{classAllocate}{Allocate}
+\begin{DoxyCompactList}\small\item\em class with the functions for making couples from given boys and girls \end{DoxyCompactList}\end{DoxyCompactItemize}
