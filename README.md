@@ -48,9 +48,9 @@ g++ rand_gift.cpp
 ./a.out
 ```
 ##Documentation
-[Click here]() to see Documentation
+[Click here](https://ppl-iiita.github.io/ppl-assignment-vaibhav138/documentation/html/index.html) to see Documentation
 
 ##Class Diagrams
-[Click here]() to see Class Diagram for Question 1
+[Click here](https://github.com/PPL-IIITA/ppl-assignment-vaibhav138/blob/master/q1_class_diagram.pdf) to see Class Diagram for Question 1
 
-[Click here]() to see Class Diagram for Question 2
+[Click here](https://github.com/PPL-IIITA/ppl-assignment-vaibhav138/blob/master/q2_class_diagram.pdf) to see Class Diagram for Question 2
